@@ -2,7 +2,7 @@
 
 Cristian Baldi - Fabrizio Olivadese - Simone Vitali
 
-Advanced Machine Learning
+Data and Text Mining
 
 University Of Milano Bicocca - Department of Computer Sciences, Systems and Communications
 
