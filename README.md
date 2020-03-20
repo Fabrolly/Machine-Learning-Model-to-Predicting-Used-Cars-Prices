@@ -1,6 +1,6 @@
 # Predicting Used Cars Prices
 
-Cristian Baldi - Fabrizio Olivadese - Simone Vitali
+[Cristian Baldi](https://www.linkedin.com/in/crisbal/) - [Fabrizio Olivadese](https://www.linkedin.com/in/fabrizio-olivadese-71a445b3/) - Simone Vitali
 
 Data and Text Mining
 
