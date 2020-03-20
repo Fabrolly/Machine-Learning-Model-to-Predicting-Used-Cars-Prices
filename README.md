@@ -9,7 +9,7 @@ The aim of this paper is to propose a machine learning model to predict the sale
 
 ![Graph](https://raw.githubusercontent.com/Fabrolly/Machine-Learning-Model-to-Predicting-Used-Cars-Prices/master/Resources/graph.png)
 
-<img src="https://raw.githubusercontent.com/Fabrolly/Machine-Learning-Model-to-Predicting-Used-Cars-Prices/master/Resources/graph.png" width="700">
+<img src="https://raw.githubusercontent.com/Fabrolly/Machine-Learning-Model-to-Predicting-Used-Cars-Prices/master/Resources/graph.png" width="600">
 
 <img src="https://raw.githubusercontent.com/Fabrolly/Machine-Learning-Model-to-Predicting-Used-Cars-Prices/master/Resources/results%20(partial).png" width="400">
 
