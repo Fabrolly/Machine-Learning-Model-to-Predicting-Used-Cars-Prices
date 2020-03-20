@@ -9,5 +9,5 @@ The aim of this paper is to propose a machine learning model to predict the sale
 
 ## Complete report
 
-[Read here the final report](https://github.com/Fabrolly/Machine-Learning-Model-to-Predicting-Used-Cars-Prices/blob/master/Final%20Report.pdf)
+[Read the final report here](https://github.com/Fabrolly/Machine-Learning-Model-to-Predicting-Used-Cars-Prices/blob/master/Final%20Report.pdf)
 
